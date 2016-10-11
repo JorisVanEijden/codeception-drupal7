@@ -1,0 +1,16 @@
+{
+  "name": "codeception/drupal7",
+  "description": "Drupal 7 framework integration with codeception.",
+  "minimum-stability": "dev",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Joris van Eijden",
+      "email": "joris.vaneijden@oneshoe.nl"
+    }
+  ],
+  "require": {
+    "drupal/drupal-driver": "~1.0",
+    "codeception/codeception": "~2.1"
+  }
+}
