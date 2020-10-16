@@ -11,7 +11,7 @@
   ],
   "require": {
     "drupal/drupal-driver": "~1.0",
-    "codeception/codeception": "~2.1"
+    "codeception/codeception": "*"
   },
   "autoload": {
     "psr-4": {
