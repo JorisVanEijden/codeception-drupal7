@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "drupal/drupal-driver": "~1.0",
+    "drupal/drupal-driver": "*",
     "codeception/codeception": "*"
   },
   "autoload": {
